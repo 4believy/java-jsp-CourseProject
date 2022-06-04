@@ -4,22 +4,22 @@
 Рисунок 1.1- Web-cторінка таблиці сity
          Зі сторінки сity можна перейти на таблицю сторінки supermarket, для цього натискаємо на посилання для потрібно міста . Аналогічно сторінці сity користувач також може додавати, редагувати та видаляти данні. Зовнішній вигляд та додавання\редагування рядків зображенно на рисунку 1.2:
 
- https://github.com/4believy/java-jsp-CourseProject/blob/master/2.png
+ ![Image alt](https://github.com/4believy/java-jsp-CourseProject/blob/master/2.png)
 Рисунок 1.2- Web-cторінка таблиці supermarket
 
          Далі можна перейти на сторінки seller, на ній знаходятся дані продавця створенної мережі. На цій сторінці можна заповнювати  дані продавця, редагувати та видаляти їх, результат використання сторінки зображенно на рисунку 1.3:
- https://github.com/4believy/java-jsp-CourseProject/blob/master/3.png
+  ![Image alt](https://github.com/4believy/java-jsp-CourseProject/blob/master/3.png)
 Рисунок 1.3- Web-cторінка таблиці seller
 
        Наступна сторінка мережі - products, сторінка продуктів мережі, до неї можна потрапии зі сторінка seller, на цій сторінці можливо редагувати та вводити данні продуктів, та перейти на сторінку supplier. 
- https://github.com/4believy/java-jsp-CourseProject/blob/master/4.png
+ ![Image alt](https://github.com/4believy/java-jsp-CourseProject/blob/master/4.png)
 Рисунок 1.4- Web-cторінка таблиці products
 
       Сторінка supplier містить дані поставщика з БД, також є можливість вводити нові дані, та редагувати або видаляти дані раніше добавлені.
- https://github.com/4believy/java-jsp-CourseProject/blob/master/5.png
+ ![Image alt](https://github.com/4believy/java-jsp-CourseProject/blob/master/5.png)
 Рисунок 1.5- Web-cторінка таблиці supplier
        В результаті виконання бізнесс-логіки був створенний додаткой функціонал Web-додатку: якщо кількість товару стає нижче заданого значення, тоді на е-mail постачальника з відсилається повідомлення.
- https://github.com/4believy/java-jsp-CourseProject/blob/master/6.png
+ ![Image alt](https://github.com/4believy/java-jsp-CourseProject/blob/master/6.png)
 Рисунок 1.6 – Результат успішного відправлення повідомлення на електронну почту
 
 
